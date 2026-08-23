@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube</string>
+    <string name="splash_text">YouTube by SunFlare94</string>
+    <string name="loading">Loading...</string>
+</resources>
