@@ -75,3 +75,29 @@ Access settings by clicking the gear icon in the top right corner of the main sc
 ## License
 
 This project is for educational purposes only.
+
+## ❤️ Support Development
+
+If you enjoy this project and would like to support its development, you can make a contribution using any of the options below.
+
+### 💙 GitHub Sponsors
+
+Support the project through GitHub Sponsors:
+
+**https://github.com/sponsors/SunFlare94**
+
+### 💳 Razorpay
+
+You can make a payment or contribution through Razorpay:
+
+**https://razorpay.me/@SunFlare94**
+
+### 📱 Pay via UPI
+
+Scan the Razorpay QR code below using **Google Pay, PhonePe, Paytm, or any other UPI app**.
+
+![Razorpay UPI QR Code](QrCode.jpeg)
+
+Your support helps me continue developing and maintaining this project.
+
+Thank you! ❤️
