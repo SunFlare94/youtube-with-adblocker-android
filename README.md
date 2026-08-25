@@ -27,38 +27,6 @@ A feature-rich YouTube client with powerful ad blocking, sponsor blocking, and a
 - Android 7.0 (API 24) or higher
 - Internet connection
 
-## Building the App
-
-### Using Android Studio
-1. Open Android Studio
-2. Select "Open an Existing Project"
-3. Navigate to the YouTube folder and select it
-4. Wait for Gradle sync to complete
-5. Click Build > Build Bundle(s) / APK(s) > Build APK(s)
-
-### Using Command Line
-```bash
-cd YouTube
-./gradlew assembleDebug
-```
-
-The APK will be generated at: `app/build/outputs/apk/debug/app-debug.apk`
-
-## Settings
-
-Access settings by clicking the gear icon in the top right corner of the main screen.
-
-### Ad Blocker Settings
-- **Ad Blocker**: Enable/disable all ad blocking
-- **Auto Skip Ads**: Enable/disable automatic ad skipping
-- **Block Tracking**: Enable/disable tracking protection
-
-### Sponsor Block Settings
-- **Sponsor Block**: Enable/disable sponsor segment skipping
-- **Skip Intro**: Enable/disable intro skipping
-- **Skip Outro**: Enable/disable outro skipping
-- **Skip Filler**: Enable/disable filler content skipping
-
 ## Technical Details
 
 - **WebView-based**: Uses Android WebView for rendering YouTube
