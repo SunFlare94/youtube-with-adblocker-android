@@ -51,23 +51,11 @@ cd YouTube
 
 If you enjoy this project and would like to support its development, you can optionally contribute using any of the options below.
 
-### 💙 GitHub Sponsors
-
-Support the project through GitHub Sponsors:
-
-**[Support via GitHub Sponsors](https://github.com/sponsors/SunFlare94)**
-
-### 💳 Razorpay
-
-You can make a casual contribution through Razorpay:
-
-**[Support via Razorpay](https://razorpay.me/@SunFlare94)**
-
 ### 📱 Support via UPI
 
 Scan the Razorpay QR code below using **Google Pay, PhonePe, Paytm, or any other supported UPI app**.
 
-![Razorpay UPI QR Code](QrCode.jpeg)
+![Razorpay UPI QR Code](UPI_PayWhatYouWant_SBI.png)
 
 ### 💙 Support via PayPal
 
